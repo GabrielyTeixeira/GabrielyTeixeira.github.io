@@ -12,7 +12,7 @@ Ciência e tecnologia
 
 
 - Professor Temporário  
-Período: 2017 -2018  
+Período: 2017 - 2018  
 Departamento de Estatística - 
 Universidade Federal de Juiz de Fora (UFJF), Minas Gerais, Brasil  
  
