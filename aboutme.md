@@ -4,7 +4,7 @@ title: Sobre mim
 subtitle: 
 ---
 
-### História
+### História Acadêmica
 
 Graduada em Estatística pela Universidade Federal de Juiz de Fora (2015) e mestrado em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa - UFV (2017). 
 Atualmente doutoranda no programa de pós-graduação em Estatística Aplicada e Biometria da UFV.
